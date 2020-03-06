@@ -1,5 +1,8 @@
-# mixin price gnome ticket 
+# mixin gnome price ticker
 
-Gnome 3 desktop ticker for mixin price with Python and argos. Rename to mixin.1r.60s.py and put in ~/.config/argos
+Get mixin price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/mixin-price-gnome-ticket/](https://codesharedot.github.io/mixin-price-gnome-ticket/)
 
-https://pythonbasics.org
+mixin price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to mixin.1r60s.py and put in ~/.config/argos
